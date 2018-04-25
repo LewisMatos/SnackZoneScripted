@@ -37,5 +37,8 @@ button {
 .hide {
   width: 60%;
   align-self: center;
-  display: none;
+  display:none;
+}
+.chip{
+    width:40%; 
 }
