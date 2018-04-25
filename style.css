@@ -10,6 +10,8 @@ body {
 .header-image {
   width: 30%;
   opacity: 1;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 .layout {
@@ -24,7 +26,7 @@ body {
   color: black;
   padding: 10px;
   margin-bottom: 5px;
-  width: 50%;
+  width: 30%;
   background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
 }
 
@@ -40,5 +42,6 @@ button {
   display:none;
 }
 .chip{
-    width:30%; 
+    width:30%;
+    height:40%;
 }
